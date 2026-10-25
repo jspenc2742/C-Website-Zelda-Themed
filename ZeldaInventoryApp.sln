@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.10.12224.181 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeldaInventoryApp", "ZeldaInventoryApp.csproj", "{A587B3A5-A264-4A4E-8C4B-1B5CB7D8F5BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A587B3A5-A264-4A4E-8C4B-1B5CB7D8F5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A587B3A5-A264-4A4E-8C4B-1B5CB7D8F5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A587B3A5-A264-4A4E-8C4B-1B5CB7D8F5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A587B3A5-A264-4A4E-8C4B-1B5CB7D8F5BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {715E8A53-970C-4DDC-A926-29561EB83253}
+	EndGlobalSection
+EndGlobal
